@@ -1,0 +1,28 @@
+%BRDF Model at 0.48 wavelength
+a = 1.0e-5, 1.0e-5
+q = 2.0742712, 2.5
+w = 0.9999999, 0.8
+g = 0.87509, 0.85
+emi = 0
+inc = 0.785398000000000
+theta = 0.785398000000000
+
+%Manannan Variables
+%using the BRDF model values as our new "pure ice" values (aka background)
+a = 1.0e-5, 1.0e-5
+q = 2.0742712, 2.5
+w = 0.9999999, 0.8
+g = 0.87509, 0.85
+emi = 0.434517171000000
+inc = 0.366571503000000
+theta = 0.658495273000000
+
+%Callanish Variables
+%using the BRDF model values as our new "pure ice" values (aka background)
+a = 1.0e-5, 1.0e-5
+q = 2.0742712, 2.5
+w = 0.9999999, 0.8
+g = 0.87509, 0.85
+emi = 0.840917087000000
+inc = 1.01272730000000
+theta = 1.64273880000000
